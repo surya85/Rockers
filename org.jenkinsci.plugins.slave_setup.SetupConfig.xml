@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<org.jenkinsci.plugins.slave__setup.SetupConfig plugin="slave-setup@1.9">
+  <setupConfigItems>
+    <org.jenkinsci.plugins.slave__setup.SetupConfigItem>
+      <preLaunchScript></preLaunchScript>
+      <prepareScript></prepareScript>
+      <filesDir></filesDir>
+      <commandLine></commandLine>
+      <deployNow>false</deployNow>
+      <prepareScriptExecuted>false</prepareScriptExecuted>
+    </org.jenkinsci.plugins.slave__setup.SetupConfigItem>
+  </setupConfigItems>
+</org.jenkinsci.plugins.slave__setup.SetupConfig>
